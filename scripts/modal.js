@@ -28,11 +28,11 @@ $(document).ready(function() {
       link: 'https://fomo-52505.web.app/'
     },
     walker: {
-      title: 'Krypto Gangsters NFT',
+      title: 'RDland NFT',
       tag: 'NFT mint site',
       detail:
-        "All 10,000 Krypto Gangsters are Unique. There is no one like another. Each Gangster is randomly generated with it's own characteristics, expression and extra's.",
-      link: 'https://kryptogangsters.io'
+        "All 10,000 mintres are Unique. There is no one like another. Each minter is randomly generated with it's own characteristics, expression and extra's.",
+      link: 'https://rdland.io'
     },
     powur: {
       title: 'Ghost Marketer',
